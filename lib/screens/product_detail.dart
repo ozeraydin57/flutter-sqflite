@@ -48,6 +48,7 @@ class _ProductDetailState extends State<ProductDetail> {
                 value: Options.update,
                 child: Text("Güncelle"),
               ),
+
             ],
           )
         ],
