@@ -7,3 +7,4 @@ sqflite ile veri tabanı işlemleri yapılmaktadır.
 -Ürün silme
 
 -Ürün güncelleme
+# daily-notes-app
